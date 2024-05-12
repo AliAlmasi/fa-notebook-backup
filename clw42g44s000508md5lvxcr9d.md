@@ -1,5 +1,7 @@
 ---
-title: "نحوه استفاده از مجموعه V2ray تلگرام YeBeKhe"
+title: "نحوه استفاده از TelegramV2rayCollector"
+seoTitle: "نحوه استفاده از TelegramV2rayCollector"
+seoDescription: "پروژه منبع باز V2ray Collector بسیار جالب است! می توانید از کانفیگ های V2ray اشتراک گذاشته شده در کانال های تلگرام، یکجا استفاده کنید."
 datePublished: Sun May 12 2024 21:47:36 GMT+0000 (Coordinated Universal Time)
 cuid: clw42g44s000508md5lvxcr9d
 slug: telegram-v2ray-collector
